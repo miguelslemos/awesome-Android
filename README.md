@@ -115,4 +115,7 @@
 
 * [TextInputLayout.setError() leaves empty space after clearing the error](http://stackoverflow.com/questions/34242902/textinputlayout-seterror-leaves-empty-space-after-clearing-the-error) 
 
+* [RxJava tips](https://gist.github.com/lawloretienne/40959a8d95c8d0bf4675999d07df3c0c) 
+
+
 
