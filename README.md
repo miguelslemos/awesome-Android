@@ -112,3 +112,7 @@
 * [50 Android Studio Tips, Tricks & Resources you should be familiar with, as an Android Developer](https://medium.com/@mmbialas/50-android-studio-tips-tricks-resources-you-should-be-familiar-with-as-an-android-developer-af86e7cf56d2#.y8bl5egxr) 
 
 * [android-proguard-snippets](https://github.com/krschultz/android-proguard-snippets) 
+
+* [TextInputLayout.setError() leaves empty space after clearing the error](http://stackoverflow.com/questions/34242902/textinputlayout-seterror-leaves-empty-space-after-clearing-the-error) 
+
+
