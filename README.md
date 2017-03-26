@@ -103,6 +103,8 @@
 
 * [Animating Markers with MapOverlayLayout](https://github.com/panwrona/Workcation) 
 
+* [Android-Examples](https://github.com/nisrulz/android-examples)  
+
 
 
  ### Helpful tips:
@@ -133,6 +135,8 @@
 * [A View for cropping images](https://github.com/yasharpm/InstaCropper)  
 
 * [Scrollable list of items](https://github.com/yarolegovich/DiscreteScrollView)  
+
+* [Custom fonts in Android the easy way](https://github.com/chrisjenx/Calligraphy)  
 
 
 
