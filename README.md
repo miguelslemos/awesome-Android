@@ -101,11 +101,15 @@
 
 * [Marvel Characters Android Application](https://github.com/mmirhoseini/marvel) 
 
+* [Animating Markers with MapOverlayLayout](https://github.com/panwrona/Workcation) 
+
 
 
  ### Helpful tips:
  
- * [Don’t use Color.TRANSPARENT for gradient](https://medium.com/@iammert/log-v-threetips-13-eb8d134ca236#.3srfi4k9m) 
+* [Tips and tricks for Android Development](https://github.com/nisrulz/android-tips-tricks) 
+
+* [Don’t use Color.TRANSPARENT for gradient](https://medium.com/@iammert/log-v-threetips-13-eb8d134ca236#.3srfi4k9m) 
 
 * [Stop Android Studio compilation immediately!](https://android.jlelse.eu/stop-android-studio-compilation-immediately-90b9afb76f8c#.3lqnvcdkd) 
 
@@ -117,5 +121,22 @@
 
 * [RxJava tips](https://gist.github.com/lawloretienne/40959a8d95c8d0bf4675999d07df3c0c) 
 
+* [Android Application performance improvement tips](https://medium.com/@hammad_tariq/android-application-performance-improvement-tips-c4ec4d045d6d#.auccqqcwl) 
 
+* [Configuring Android Project — Version Name & Code](https://hackernoon.com/configuring-android-project-version-name-code-b168952f3323#.71ivvq43n) 
+
+
+### Libraries
+
+* [Robust Hotfix](https://github.com/Meituan-Dianping/Robust)  
+
+* [A View for cropping images](https://github.com/yasharpm/InstaCropper)  
+
+* [Scrollable list of items](https://github.com/yarolegovich/DiscreteScrollView)  
+
+
+
+### Tests
+
+* [Stress-testing Android apps](https://android.jlelse.eu/stress-testing-android-apps-601311ebf590#.x5gf09hsi)  
 
