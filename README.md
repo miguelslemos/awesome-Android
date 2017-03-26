@@ -105,6 +105,10 @@
 
 * [Android-Examples](https://github.com/nisrulz/android-examples)  
 
+* [An Android app which provides design news](https://github.com/nickbutcher/plaid)
+
+* [Demos the new Android Design library](https://github.com/chrisbanes/cheesesquare)
+
 
 
  ### Helpful tips:
