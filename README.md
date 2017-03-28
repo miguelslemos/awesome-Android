@@ -152,3 +152,8 @@
 
 * [Stress-testing Android apps](https://android.jlelse.eu/stress-testing-android-apps-601311ebf590#.x5gf09hsi)  
 
+* [JUnit 5: Dynamic Tests](https://blog.stylingandroid.com/junit-5-dynamic-tests/)
+
+### Security
+
+* [Android Sec Links](https://github.com/ashishb/android-security-awesome)
