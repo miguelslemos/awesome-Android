@@ -40,7 +40,11 @@
 
  * [Building UserScope with Dagger2](https://medium.com/azimolabs/building-userscope-with-dagger2-5092346d8812#.eedtqiz9j)
 
- 
+### Activity Manager:
+
+* [Android Task and Back Stack Review](https://blog.mindorks.com/android-task-and-back-stack-review-5017f2c18196)
+
+* [Android “launchMode” (Visualized)](https://medium.com/@iammert/android-launchmode-visualized-8843fc833dbe)
 
 ### Optimization:
 
