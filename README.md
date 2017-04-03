@@ -5,6 +5,9 @@
 
 ### Reactive Programming:
 
+
+ * [Reactive Programming para Desenvolvedores Android — Part I](https://medium.com/google-developer-experts/reactive-programming-para-desenvolvedores-android-part-i-53788a4fbc9f)
+
  * [Reactive Programming part 1](https://medium.com/google-developer-experts/reactive-programming-para-desenvolvedores-android-part-i-53788a4fbc9f#.ijjlxc2yv)
 
  * [Reactive Programming part 2](https://medium.com/google-developer-experts/reactive-programming-para-desenvolvedores-android-part-2-7cda0679b9#.jayn5o8er)
@@ -53,6 +56,8 @@
  * [Understanding Android Core: Looper, Handler, and HandlerThread](https://blog.mindorks.com/android-core-looper-handler-and-handlerthread-bd54d69fe91a#.s3b2jq41e)
 
  * [Can you and should you use vector drawables? — A cheatsheet](https://medium.com/@ferrand.d/can-you-and-should-you-use-vector-drawables-a-cheatsheet-32a2e1cc2ecf#.xd8e2jrde)
+ 
+ * [Android Studio 2.4 Preview 2 : Android Profiler, Semantic Highlighting](https://medium.com/@thanhcs94/android-studio-2-4-preview-2-android-profiler-semantic-highlighting-ab93d86a75d3)
 
 
  ### Continuous Integration:
@@ -135,9 +140,7 @@
 
 * [Configuring Android Project — Version Name & Code](https://hackernoon.com/configuring-android-project-version-name-code-b168952f3323#.71ivvq43n) 
 
-
 * [Public-API's](https://github.com/toddmotto/public-apis) 
-
 
 
 ### Libraries
@@ -151,7 +154,6 @@
 * [Custom fonts in Android the easy way](https://github.com/chrisjenx/Calligraphy)  
 
 
-
 ### Tests
 
 * [Stress-testing Android apps](https://android.jlelse.eu/stress-testing-android-apps-601311ebf590#.x5gf09hsi)  
@@ -161,3 +163,8 @@
 ### Security
 
 * [Android Sec Links](https://github.com/ashishb/android-security-awesome)
+
+### Android Studio Plugins
+
+* [GsonFormat](https://github.com/zzz40500/GsonFormat)
+
