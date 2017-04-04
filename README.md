@@ -23,7 +23,6 @@
  
 ##### MVP:
 
-
  * [Model-View-Presenter: Android guidelines](https://medium.com/@cervonefrancesco/model-view-presenter-android-guidelines-94970b430ddf#.jtcu9onzh)
 
  * [Yet another MVP article — Part 1: Lets get to know the project](https://hackernoon.com/yet-another-mvp-article-part-1-lets-get-to-know-the-project-d3fd553b3e21#.il4kh6tse)
@@ -35,6 +34,8 @@
  * [Essential Guide For Designing Your Android App Architecture: MVP: Part 2](https://blog.mindorks.com/essential-guide-for-designing-your-android-app-architecture-mvp-part-2-b2ac6f3f9637#.6pqdnablc)
 
  * [Essential Guide For Designing Your Android App Architecture: MVP: Part 2](https://blog.mindorks.com/essential-guide-for-designing-your-android-app-architecture-mvp-part-2-b2ac6f3f9637#.6pqdnablc)
+ 
+ * [Mosby](https://github.com/sockeqwe/mosby) - A Model-View-Presenter library for modern Android apps.
 
 
  ###  Dependency Injection:
@@ -167,4 +168,28 @@
 ### Android Studio Plugins
 
 * [GsonFormat](https://github.com/zzz40500/GsonFormat)
+
+### ORM
+
+* [greenDAO](https://github.com/greenrobot/greenDAO) - Is a light & fast ORM solution for Android that maps objects to SQLite databases.
+
+* [ORMLite](https://github.com/j256/ormlite-android) -  Android functionality used in conjunction with ormlite-core
+
+* [Realm-Java](https://github.com/realm/realm-java) - Is a mobile database: a replacement for SQLite & ORMs
+
+
+### Image Loading
+
+* [Glide](https://github.com/bumptech/glide) - Is an image loading and caching library for Android focused on smooth scrolling
+* [Picasso](https://github.com/square/picasso) - Is a powerful image downloading and caching library for Android scrolling
+* [Fresco](https://github.com/facebook/fresco) - Is An image management library by Facebook
+
+### Network
+
+* [okhttp](https://github.com/square/okhttp) - Is a HTTP+SPDY client for Android and Java applications.
+* [Retrofit](https://github.com/square/retrofit) -  Type-safe REST client for Android and Java by Square, Inc.
+
+
+
+
 
