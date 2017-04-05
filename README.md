@@ -59,6 +59,12 @@
  * [Can you and should you use vector drawables? — A cheatsheet](https://medium.com/@ferrand.d/can-you-and-should-you-use-vector-drawables-a-cheatsheet-32a2e1cc2ecf#.xd8e2jrde)
  
  * [Android Studio 2.4 Preview 2 : Android Profiler, Semantic Highlighting](https://medium.com/@thanhcs94/android-studio-2-4-preview-2-android-profiler-semantic-highlighting-ab93d86a75d3)
+ 
+ * [Smart way to update RecyclerView using DiffUtil](https://android.jlelse.eu/smart-way-to-update-recyclerview-using-diffutil-345941a160e0)
+ 
+ * [App optimization with ArrayMap & SparseArray in Android]https://android.jlelse.eu/app-optimization-with-arraymap-sparsearray-in-android-c0b7de22541a)
+ 
+ 
 
 
  ### Continuous Integration:
@@ -72,6 +78,7 @@
 
 * [Scrolling Behavior for Appbars in Android](https://android.jlelse.eu/scrolling-behavior-for-appbars-in-android-41aff9c5c468#.nabnba9i1)
 
+* [Parallax Scrolling Header with Tabs in Android](https://android.jlelse.eu/parallax-scrolling-header-tabs-android-tutorial-2cc6e40aa257)
 
 
  ### Productivity:
@@ -119,6 +126,8 @@
 
 * [Demos the new Android Design library](https://github.com/chrisbanes/cheesesquare)
 
+* [MVP + Dagger 2 + RX  Clean/Modern Android App/Code](https://medium.com/@yassinegharsallah/mvp-dagger-2-rx-clean-modern-android-app-code-74f63c9a6f2f)
+
 
 
  ### Helpful tips:
@@ -143,6 +152,10 @@
 
 * [Public-API's](https://github.com/toddmotto/public-apis) 
 
+* [Perfect Singleton](https://android.jlelse.eu/how-to-make-the-perfect-singleton-de6b951dfdb0) 
+
+
+
 
 ### Libraries
 
@@ -153,6 +166,9 @@
 * [Scrollable list of items](https://github.com/yarolegovich/DiscreteScrollView)  
 
 * [Custom fonts in Android the easy way](https://github.com/chrisjenx/Calligraphy)  
+
+* [SmileyRating](https://android-arsenal.com/details/1/5424)  
+
 
 
 ### Tests
