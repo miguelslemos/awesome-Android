@@ -5,6 +5,9 @@
 
 ### Reactive Programming:
 
+
+ * [Reactive Programming para Desenvolvedores Android — Part I](https://medium.com/google-developer-experts/reactive-programming-para-desenvolvedores-android-part-i-53788a4fbc9f)
+
  * [Reactive Programming part 1](https://medium.com/google-developer-experts/reactive-programming-para-desenvolvedores-android-part-i-53788a4fbc9f#.ijjlxc2yv)
 
  * [Reactive Programming part 2](https://medium.com/google-developer-experts/reactive-programming-para-desenvolvedores-android-part-2-7cda0679b9#.jayn5o8er)
@@ -20,7 +23,6 @@
  
 ##### MVP:
 
-
  * [Model-View-Presenter: Android guidelines](https://medium.com/@cervonefrancesco/model-view-presenter-android-guidelines-94970b430ddf#.jtcu9onzh)
 
  * [Yet another MVP article — Part 1: Lets get to know the project](https://hackernoon.com/yet-another-mvp-article-part-1-lets-get-to-know-the-project-d3fd553b3e21#.il4kh6tse)
@@ -32,6 +34,8 @@
  * [Essential Guide For Designing Your Android App Architecture: MVP: Part 2](https://blog.mindorks.com/essential-guide-for-designing-your-android-app-architecture-mvp-part-2-b2ac6f3f9637#.6pqdnablc)
 
  * [Essential Guide For Designing Your Android App Architecture: MVP: Part 2](https://blog.mindorks.com/essential-guide-for-designing-your-android-app-architecture-mvp-part-2-b2ac6f3f9637#.6pqdnablc)
+ 
+ * [Mosby](https://github.com/sockeqwe/mosby) - A Model-View-Presenter library for modern Android apps.
 
 
  ###  Dependency Injection:
@@ -40,7 +44,11 @@
 
  * [Building UserScope with Dagger2](https://medium.com/azimolabs/building-userscope-with-dagger2-5092346d8812#.eedtqiz9j)
 
- 
+### Activity Manager:
+
+* [Android Task and Back Stack Review](https://blog.mindorks.com/android-task-and-back-stack-review-5017f2c18196)
+
+* [Android “launchMode” (Visualized)](https://medium.com/@iammert/android-launchmode-visualized-8843fc833dbe)
 
 ### Optimization:
 
@@ -49,6 +57,14 @@
  * [Understanding Android Core: Looper, Handler, and HandlerThread](https://blog.mindorks.com/android-core-looper-handler-and-handlerthread-bd54d69fe91a#.s3b2jq41e)
 
  * [Can you and should you use vector drawables? — A cheatsheet](https://medium.com/@ferrand.d/can-you-and-should-you-use-vector-drawables-a-cheatsheet-32a2e1cc2ecf#.xd8e2jrde)
+ 
+ * [Android Studio 2.4 Preview 2 : Android Profiler, Semantic Highlighting](https://medium.com/@thanhcs94/android-studio-2-4-preview-2-android-profiler-semantic-highlighting-ab93d86a75d3)
+ 
+ * [Smart way to update RecyclerView using DiffUtil](https://android.jlelse.eu/smart-way-to-update-recyclerview-using-diffutil-345941a160e0)
+ 
+ * [App optimization with ArrayMap & SparseArray in Android]https://android.jlelse.eu/app-optimization-with-arraymap-sparsearray-in-android-c0b7de22541a)
+ 
+ 
 
 
  ### Continuous Integration:
@@ -62,6 +78,7 @@
 
 * [Scrolling Behavior for Appbars in Android](https://android.jlelse.eu/scrolling-behavior-for-appbars-in-android-41aff9c5c468#.nabnba9i1)
 
+* [Parallax Scrolling Header with Tabs in Android](https://android.jlelse.eu/parallax-scrolling-header-tabs-android-tutorial-2cc6e40aa257)
 
 
  ### Productivity:
@@ -109,6 +126,8 @@
 
 * [Demos the new Android Design library](https://github.com/chrisbanes/cheesesquare)
 
+* [MVP + Dagger 2 + RX  Clean/Modern Android App/Code](https://medium.com/@yassinegharsallah/mvp-dagger-2-rx-clean-modern-android-app-code-74f63c9a6f2f)
+
 
 
  ### Helpful tips:
@@ -131,8 +150,10 @@
 
 * [Configuring Android Project — Version Name & Code](https://hackernoon.com/configuring-android-project-version-name-code-b168952f3323#.71ivvq43n) 
 
-
 * [Public-API's](https://github.com/toddmotto/public-apis) 
+
+* [Perfect Singleton](https://android.jlelse.eu/how-to-make-the-perfect-singleton-de6b951dfdb0) 
+
 
 
 
@@ -146,6 +167,8 @@
 
 * [Custom fonts in Android the easy way](https://github.com/chrisjenx/Calligraphy)  
 
+* [SmileyRating](https://android-arsenal.com/details/1/5424)  
+
 
 
 ### Tests
@@ -157,3 +180,32 @@
 ### Security
 
 * [Android Sec Links](https://github.com/ashishb/android-security-awesome)
+
+### Android Studio Plugins
+
+* [GsonFormat](https://github.com/zzz40500/GsonFormat)
+
+### ORM
+
+* [greenDAO](https://github.com/greenrobot/greenDAO) - Is a light & fast ORM solution for Android that maps objects to SQLite databases.
+
+* [ORMLite](https://github.com/j256/ormlite-android) -  Android functionality used in conjunction with ormlite-core
+
+* [Realm-Java](https://github.com/realm/realm-java) - Is a mobile database: a replacement for SQLite & ORMs
+
+
+### Image Loading
+
+* [Glide](https://github.com/bumptech/glide) - Is an image loading and caching library for Android focused on smooth scrolling
+* [Picasso](https://github.com/square/picasso) - Is a powerful image downloading and caching library for Android scrolling
+* [Fresco](https://github.com/facebook/fresco) - Is An image management library by Facebook
+
+### Network
+
+* [okhttp](https://github.com/square/okhttp) - Is a HTTP+SPDY client for Android and Java applications.
+* [Retrofit](https://github.com/square/retrofit) -  Type-safe REST client for Android and Java by Square, Inc.
+
+
+
+
+
