@@ -62,7 +62,7 @@
  
  * [Smart way to update RecyclerView using DiffUtil](https://android.jlelse.eu/smart-way-to-update-recyclerview-using-diffutil-345941a160e0)
  
- * [App optimization with ArrayMap & SparseArray in Android]https://android.jlelse.eu/app-optimization-with-arraymap-sparsearray-in-android-c0b7de22541a)
+ * [App optimization with ArrayMap & SparseArray in Android](https://android.jlelse.eu/app-optimization-with-arraymap-sparsearray-in-android-c0b7de22541a)
  
  
 
@@ -169,7 +169,7 @@
 
 * [SmileyRating](https://android-arsenal.com/details/1/5424)  
 
-
+* [Android Libraries Arsenal](https://android-arsenal.com/) - Android developer portal with tools, libraries, and apps
 
 ### Tests
 
