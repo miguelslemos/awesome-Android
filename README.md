@@ -36,6 +36,11 @@
  * [Essential Guide For Designing Your Android App Architecture: MVP: Part 2](https://blog.mindorks.com/essential-guide-for-designing-your-android-app-architecture-mvp-part-2-b2ac6f3f9637#.6pqdnablc)
  
  * [Mosby](https://github.com/sockeqwe/mosby) - A Model-View-Presenter library for modern Android apps.
+ 
+ * [Android MVP without RxJava or Dagger](https://android.jlelse.eu/avenging-android-mvp-23461aebe9b5)
+
+ 
+ 
 
 
  ###  Dependency Injection:
@@ -62,7 +67,11 @@
  
  * [Smart way to update RecyclerView using DiffUtil](https://android.jlelse.eu/smart-way-to-update-recyclerview-using-diffutil-345941a160e0)
  
- * [App optimization with ArrayMap & SparseArray in Android]https://android.jlelse.eu/app-optimization-with-arraymap-sparsearray-in-android-c0b7de22541a)
+ * [App optimization with ArrayMap & SparseArray in Android](https://android.jlelse.eu/app-optimization-with-arraymap-sparsearray-in-android-c0b7de22541a)
+ 
+ * [Smart way to update RecyclerView using DiffUtil](https://android.jlelse.eu/smart-way-to-update-recyclerview-using-diffutil-345941a160e0)
+ 
+
  
  
 
@@ -128,6 +137,9 @@
 
 * [MVP + Dagger 2 + RX  Clean/Modern Android App/Code](https://medium.com/@yassinegharsallah/mvp-dagger-2-rx-clean-modern-android-app-code-74f63c9a6f2f)
 
+* [RxJavaAndDiffUtil](https://github.com/ErikHellman/RxJavaAndDiffUtil)
+
+
 
 
  ### Helpful tips:
@@ -154,6 +166,9 @@
 
 * [Perfect Singleton](https://android.jlelse.eu/how-to-make-the-perfect-singleton-de6b951dfdb0) 
 
+* [Using Glide ? Few tips to be a pro](https://android.jlelse.eu/using-glide-few-tips-to-be-a-pro-60f41e29d30a) 
+
+
 
 
 
@@ -168,6 +183,10 @@
 * [Custom fonts in Android the easy way](https://github.com/chrisjenx/Calligraphy)  
 
 * [SmileyRating](https://android-arsenal.com/details/1/5424)  
+
+* [Circular ImageView](https://android.jlelse.eu/circular-imageview-nightmare-for-beginners-822c4137e629)  
+
+
 
 
 
