@@ -73,10 +73,8 @@
  
  * [Parcelable vs Serializable](https://medium.com/@kostovtd/parcelable-vs-serializable-6a2556d51538)
  
- 
+ * [Understanding Context In Android Application](https://blog.mindorks.com/understanding-context-in-android-application-330913e32514)
 
-
- 
 
 
  ### Continuous Integration:
