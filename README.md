@@ -71,8 +71,11 @@
  
  * [Smart way to update RecyclerView using DiffUtil](https://android.jlelse.eu/smart-way-to-update-recyclerview-using-diffutil-345941a160e0)
  
-
+ * [Parcelable vs Serializable](https://medium.com/@kostovtd/parcelable-vs-serializable-6a2556d51538)
  
+ 
+
+
  
 
 
@@ -168,6 +171,9 @@
 
 * [Using Glide ? Few tips to be a pro](https://android.jlelse.eu/using-glide-few-tips-to-be-a-pro-60f41e29d30a) 
 
+* [A Complete Guide To Learn RxJava](https://blog.mindorks.com/a-complete-guide-to-learn-rxjava-b55c0cea3631) 
+
+
 
 
 
@@ -223,6 +229,7 @@
 
 * [okhttp](https://github.com/square/okhttp) - Is a HTTP+SPDY client for Android and Java applications.
 * [Retrofit](https://github.com/square/retrofit) -  Type-safe REST client for Android and Java by Square, Inc.
+* [Fast Android Networking vs Retrofit vs Volley](https://medium.com/@mohitkumar0571/fast-android-networking-vs-retrofit-vs-volley-32ca4a0e4030) - Comparison between Android Networking Libraries, Android HTTP Libraries.
 
 
 
