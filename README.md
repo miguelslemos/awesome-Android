@@ -174,6 +174,8 @@
 
 * [A Complete Guide To Learn RxJava](https://blog.mindorks.com/a-complete-guide-to-learn-rxjava-b55c0cea3631) 
 
+* [Propagating Transitions](https://medium.com/@nickcruz_88217/propagating-transitions-1a18b647ba71) - Transitions [in Android] and succulents [in real life] aren’t too different when it comes to a topic called propagation. 
+
 
 ### Utils
 
