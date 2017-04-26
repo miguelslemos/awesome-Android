@@ -12,7 +12,7 @@
 
  * [Reactive Programming part 2](https://medium.com/google-developer-experts/reactive-programming-para-desenvolvedores-android-part-2-7cda0679b9#.jayn5o8er)
  
-  * [Reactive Programming part 3](https://medium.com/google-developer-experts/functional-reactive-programming-para-desenvolvedores-android-part-3-461c2f558565#.pz0n3mjqa)
+ * [Reactive Programming part 3](https://medium.com/google-developer-experts/functional-reactive-programming-para-desenvolvedores-android-part-3-461c2f558565#.pz0n3mjqa)
 
 
 ### Architecture Android:
@@ -140,6 +140,9 @@
 
 * [RxJavaAndDiffUtil](https://github.com/ErikHellman/RxJavaAndDiffUtil)
 
+* [LQRWeChat](https://github.com/GitLqr/LQRWeChat)
+
+
 
 
 
@@ -172,9 +175,9 @@
 * [A Complete Guide To Learn RxJava](https://blog.mindorks.com/a-complete-guide-to-learn-rxjava-b55c0cea3631) 
 
 
+### Utils
 
-
-
+* [AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode) 
 
 ### Libraries
 
@@ -189,6 +192,23 @@
 * [SmileyRating](https://android-arsenal.com/details/1/5424)  
 
 * [Circular ImageView](https://android.jlelse.eu/circular-imageview-nightmare-for-beginners-822c4137e629)  
+
+* [Matisse](https://github.com/zhihu/Matisse) - A well-designed local image and video selector for Android
+
+* [Tiny](https://github.com/Sunzxyong/Tiny) - An image compression framework.
+
+* [ShowcaseView](https://github.com/amlcurran/ShowcaseViewy) - Highlight the best bits of your app to users quickly, simply, and cool...ly
+
+* [StepView](https://github.com/baoyachi/StepView) - Step by step，just use HorizontalStepView，VerticalStepView. step indicator，flow indicator，timeline，order process，express status
+
+* [BottomBar](https://github.com/roughike/BottomBar) - A custom view component that mimics the new Material Design Bottom Navigation pattern.
+
+* [Shimmer-android](https://github.com/facebook/shimmer-android) - An easy, flexible way to add a shimmering effect to any view in an Android app.
+
+
+
+
+
 
 
 
