@@ -176,6 +176,9 @@
 
 * [Propagating Transitions](https://medium.com/@nickcruz_88217/propagating-transitions-1a18b647ba71) - Transitions [in Android] and succulents [in real life] aren’t too different when it comes to a topic called propagation. 
 
+* [Android Annotations](https://blog.mindorks.com/improve-your-android-coding-through-annotations-26b3273c137a) - Improve Your Android Coding Through Annotations.
+
+
 
 ### Utils
 
@@ -207,6 +210,7 @@
 
 * [Shimmer-android](https://github.com/facebook/shimmer-android) - An easy, flexible way to add a shimmering effect to any view in an Android app.
 
+* [Secure Preferences](https://github.com/KaKaVip/secure-preferences) - Android secure shared preferences using Conceal (Facebook).
 
 
 
