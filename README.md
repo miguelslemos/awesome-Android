@@ -155,6 +155,8 @@
 
 * [FastHub](https://github.com/k0shk0sh/FastHub) - FastHub the ultimate GitHub client for Android.
 
+* [MVPArms](https://github.com/JessYanCoding/MVPArms) - A common Architecture for Android Applications developing based on MVP，integrates many Open Source Projects( like Dagger2,Rxjava,Retrofit... ),to make your developing quicker and easier.
+
 
 
 
@@ -226,7 +228,7 @@
 
 * [Secure Preferences](https://github.com/KaKaVip/secure-preferences) - Android secure shared preferences using Conceal (Facebook).
 
-* [AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode) - Android developers should collect the following utils
+* [RxErrorHandler](https://github.com/JessYanCoding/RxErrorHandler) - Error Handle Of Rxjava
 
 
 
