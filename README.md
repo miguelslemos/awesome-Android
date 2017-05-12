@@ -153,6 +153,9 @@
 
 * [LQRWeChat](https://github.com/GitLqr/LQRWeChat)
 
+* [FastHub](https://github.com/k0shk0sh/FastHub) - FastHub the ultimate GitHub client for Android.
+
+
 
 
 
@@ -222,6 +225,10 @@
 * [Shimmer-android](https://github.com/facebook/shimmer-android) - An easy, flexible way to add a shimmering effect to any view in an Android app.
 
 * [Secure Preferences](https://github.com/KaKaVip/secure-preferences) - Android secure shared preferences using Conceal (Facebook).
+
+* [AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode) - Android developers should collect the following utils
+
+
 
 
 
