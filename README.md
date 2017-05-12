@@ -13,7 +13,16 @@
  * [Reactive Programming part 2](https://medium.com/google-developer-experts/reactive-programming-para-desenvolvedores-android-part-2-7cda0679b9#.jayn5o8er)
  
  * [Reactive Programming part 3](https://medium.com/google-developer-experts/functional-reactive-programming-para-desenvolvedores-android-part-3-461c2f558565#.pz0n3mjqa)
+ 
+* [Intro-To-RxJava](https://github.com/Froussios/Intro-To-RxJava) - An extensive tutorial on RxJava
 
+* [RxJava-Android-Samples](https://github.com/kaushikgopal/RxJava-Android-Samples) - Learning RxJava for Android by example
+
+* [Rx-Preferences](https://github.com/f2prateek/rx-preferences) - Reactive SharedPreferences for Android 
+
+* [RxPermissions](https://github.com/tbruyelle/RxPermissions) - Android runtime permissions powered by RxJava
+
+* [RxCache](https://github.com/VictorAlbertos/RxCache) - Reactive caching library for Android and Java
 
 ### Architecture Android:
 
@@ -89,6 +98,8 @@
 * [Scrolling Behavior for Appbars in Android](https://android.jlelse.eu/scrolling-behavior-for-appbars-in-android-41aff9c5c468#.nabnba9i1)
 
 * [Parallax Scrolling Header with Tabs in Android](https://android.jlelse.eu/parallax-scrolling-header-tabs-android-tutorial-2cc6e40aa257)
+
+* [MaterialMasterDetail](https://github.com/lurbas/MaterialMasterDetail) - Android Application sample of how to implement Master/Detail pattern that follows Material Design visual language
 
 
  ### Productivity:
