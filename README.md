@@ -114,6 +114,8 @@
 
 * [Top 10 most useful plugins for Android Studio](https://medium.com/@code_crusher/top-10-most-useful-plugins-for-android-studio-23051200e2b3#.8ckt427lh)
 
+* [How to speed up your slow Gradle builds](https://android.jlelse.eu/how-to-speed-up-your-slow-gradle-builds-5d9a9545f91a)
+
 
  ### Examples:
  
@@ -158,6 +160,13 @@
 * [FastHub](https://github.com/k0shk0sh/FastHub) - FastHub the ultimate GitHub client for Android.
 
 * [MVPArms](https://github.com/JessYanCoding/MVPArms) - A common Architecture for Android Applications developing based on MVP，integrates many Open Source Projects( like Dagger2,Rxjava,Retrofit... ),to make your developing quicker and easier.
+
+* [mvp-android-arch-component](https://github.com/quangctkm9207/mvp-android-arch-component) - Android MVP sample adapts with new Android architecture components (Lifecycle, Room).
+
+* [Protein](https://github.com/gejiaheng/Protein) - An Android App for Dribbble
+
+* [AndroidArchitecture](https://github.com/iammert/AndroidArchitecture) - Recommended architecture by Android
+
 
 #### Kotlin
 
