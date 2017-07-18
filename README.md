@@ -83,6 +83,13 @@
  * [Parcelable vs Serializable](https://medium.com/@kostovtd/parcelable-vs-serializable-6a2556d51538)
  
  * [Understanding Context In Android Application](https://blog.mindorks.com/understanding-context-in-android-application-330913e32514)
+ 
+ * [How to reduce APK size in android](https://blog.mindorks.com/how-to-reduce-apk-size-in-android-2f3713d2d662)
+ 
+ * [Android App Performance Optimization](https://blog.mindorks.com/android-app-performance-optimization-cdccb422e38e)
+ 
+ 
+
 
 
 
@@ -149,7 +156,8 @@
 
 * [An Android app which provides design news](https://github.com/nickbutcher/plaid)
 
-* [Demos the new Android Design library](https://github.com/chrisbanes/cheesesquare)
+* [Demos the new Android Design 
+](https://github.com/chrisbanes/cheesesquare)
 
 * [MVP + Dagger 2 + RX  Clean/Modern Android App/Code](https://medium.com/@yassinegharsallah/mvp-dagger-2-rx-clean-modern-android-app-code-74f63c9a6f2f)
 
@@ -206,6 +214,9 @@
 
 * [Android Annotations](https://blog.mindorks.com/improve-your-android-coding-through-annotations-26b3273c137a) - Improve Your Android Coding Through Annotations.
 
+* [Android Annotations](https://blog.mindorks.com/how-to-pass-large-data-between-server-and-client-android-securely-345fed551651)
+
+
 
 
 ### Utils
@@ -241,6 +252,10 @@
 * [Secure Preferences](https://github.com/KaKaVip/secure-preferences) - Android secure shared preferences using Conceal (Facebook).
 
 * [RxErrorHandler](https://github.com/JessYanCoding/RxErrorHandler) - Error Handle Of Rxjava
+
+* [ShimmerLayout](https://github.com/team-supercharge/ShimmerLayout)
+
+
 
 
 
