@@ -24,6 +24,8 @@
 
 * [RxCache](https://github.com/VictorAlbertos/RxCache) - Reactive caching library for Android and Java
 
+* [RxJava Anatomy: What is RxJava, how RxJava is designed, and how RxJava works](https://blog.mindorks.com/rxjava-anatomy-what-is-rxjava-how-rxjava-is-designed-and-how-rxjava-works-d357b3aca586)
+
 ### Architecture Android:
 
 #### Basic:
@@ -214,7 +216,9 @@
 
 * [Android Annotations](https://blog.mindorks.com/improve-your-android-coding-through-annotations-26b3273c137a) - Improve Your Android Coding Through Annotations.
 
-* [Android Annotations](https://blog.mindorks.com/how-to-pass-large-data-between-server-and-client-android-securely-345fed551651)
+* [How to pass large data between server and client (android) securely](https://blog.mindorks.com/how-to-pass-large-data-between-server-and-client-android-securely-345fed551651)
+
+
 
 
 
