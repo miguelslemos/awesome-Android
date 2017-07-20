@@ -30,6 +30,8 @@
 
 #### Basic:
  * [S.O.L.I.D no Android](https://medium.com/@iagofucolo/s-o-l-i-d-no-android-d55e23f1c72d#.tijclmfan)
+ 
+ * [Android Architecture](https://medium.com/curofy-engineering/android-curofy-7a3e3e0eb351)
 
  
 ##### MVP:
@@ -49,6 +51,8 @@
  * [Mosby](https://github.com/sockeqwe/mosby) - A Model-View-Presenter library for modern Android apps.
  
  * [Android MVP without RxJava or Dagger](https://android.jlelse.eu/avenging-android-mvp-23461aebe9b5)
+
+
 
  
  
@@ -217,6 +221,8 @@
 * [Android Annotations](https://blog.mindorks.com/improve-your-android-coding-through-annotations-26b3273c137a) - Improve Your Android Coding Through Annotations.
 
 * [How to pass large data between server and client (android) securely](https://blog.mindorks.com/how-to-pass-large-data-between-server-and-client-android-securely-345fed551651)
+
+* [Advanced Android Flavors](https://medium.com/@itaihanski/advanced-android-flavors-part-1-building-white-label-apps-on-android-ade16af23bcf)
 
 
 
