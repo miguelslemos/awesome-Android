@@ -286,6 +286,7 @@
 ### Security
 
 * [Android Sec Links](https://github.com/ashishb/android-security-awesome)
+* [Checklist Android Sec](https://github.com/b-mueller/android_app_security_checklist/blob/master/README.md)
 
 ### Android Studio Plugins
 
