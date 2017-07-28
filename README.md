@@ -48,6 +48,9 @@
 
  * [Essential Guide For Designing Your Android App Architecture: MVP: Part 2](https://blog.mindorks.com/essential-guide-for-designing-your-android-app-architecture-mvp-part-2-b2ac6f3f9637#.6pqdnablc)
  
+  * [Android MVP Architecture Extension with Interactors and Repositories](https://blog.mindorks.com/android-mvp-architecture-extension-with-interactors-and-repositories-bd4b51972339)
+
+ 
  * [Mosby](https://github.com/sockeqwe/mosby) - A Model-View-Presenter library for modern Android apps.
  
  * [Android MVP without RxJava or Dagger](https://android.jlelse.eu/avenging-android-mvp-23461aebe9b5)
@@ -180,6 +183,12 @@
 * [Protein](https://github.com/gejiaheng/Protein) - An Android App for Dribbble
 
 * [AndroidArchitecture](https://github.com/iammert/AndroidArchitecture) - Recommended architecture by Android
+
+* [Awesome Login Screen](https://medium.com/@vpaliy/do-you-dare-me-to-implement-this-login-screen-bf29b72d9e39) - implement an awesome Login Screen
+
+* [UberCarAnimation](https://github.com/amanjeetsingh150/UberCarAnimation) - A demo application which demonstrates movement of car on map developed after inspiration from Uber. 
+
+
 
 
 #### Kotlin
