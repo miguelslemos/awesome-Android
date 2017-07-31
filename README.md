@@ -26,6 +26,9 @@
 
 * [RxJava Anatomy: What is RxJava, how RxJava is designed, and how RxJava works](https://blog.mindorks.com/rxjava-anatomy-what-is-rxjava-how-rxjava-is-designed-and-how-rxjava-works-d357b3aca586)
 
+* [The Essential RxJava Guide for Android Developers](http://blog.jimbaca.com/essential-rxjava-guide-for-android-developers)
+
+
 ### Architecture Android:
 
 #### Basic:
