@@ -188,6 +188,9 @@
 
 * [UberCarAnimation](https://github.com/amanjeetsingh150/UberCarAnimation) - A demo application which demonstrates movement of car on map developed after inspiration from Uber. 
 
+* [android-dagger-butterknife-mvp](https://proandroiddev.com/how-to-android-dagger-2-10-2-11-butterknife-mvp-part-1-eb0f6b970fd) - Simple application using Dagger Android (2.11), Butterknife (8.7), and Model-View-Presenter (MVP) with support for Singleton, Activity, Fragment, and child Fragment scopes.
+
+
 
 
 
@@ -233,6 +236,12 @@
 
 * [Advanced Android Flavors](https://medium.com/@itaihanski/advanced-android-flavors-part-1-building-white-label-apps-on-android-ade16af23bcf)
 
+* [30+ Kickass Tools to Develop Android Apps Like a Pro](https://blog.aritraroy.in/30-kickass-tools-to-develop-android-apps-like-a-pro-191e52b9419b)
+
+* [Postman for Android developers](https://wetalkit.xyz/postman-for-android-developers-ca6451d0baa9)
+
+
+
 
 
 
@@ -273,6 +282,10 @@
 * [RxErrorHandler](https://github.com/JessYanCoding/RxErrorHandler) - Error Handle Of Rxjava
 
 * [ShimmerLayout](https://github.com/team-supercharge/ShimmerLayout)
+
+* [25 Android libraries you definitely want to try out in early 2017](https://medium.freecodecamp.org/25-new-android-libraries-which-you-definitely-want-to-try-at-the-beginning-of-2017-45878d5408c0) - This is a list of 25 best Android libraries released in January and February 2017
+
+
 
 
 
