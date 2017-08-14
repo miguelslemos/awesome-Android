@@ -100,7 +100,7 @@
  
  * [Android App Performance Optimization](https://blog.mindorks.com/android-app-performance-optimization-cdccb422e38e)
  
- 
+ * [AndResGuard](https://github.com/shwenzhang/AndResGuard) - proguard resource for Android by wechat team
 
 
 
@@ -120,6 +120,9 @@
 
 * [MaterialMasterDetail](https://github.com/lurbas/MaterialMasterDetail) - Android Application sample of how to implement Master/Detail pattern that follows Material Design visual language
 
+* [Creating well-behaved views in Android] (https://blog.picnic.nl/creating-well-behaved-views-in-android-3e088c560bc5)
+
+* [Android CardView 101: Everything you should know] (https://www.whatsthatlambda.com/android/android-cardview-101-everything-you-should-know)
 
  ### Productivity:
  
@@ -193,6 +196,7 @@
 
 * [android-dagger-butterknife-mvp](https://proandroiddev.com/how-to-android-dagger-2-10-2-11-butterknife-mvp-part-1-eb0f6b970fd) - Simple application using Dagger Android (2.11), Butterknife (8.7), and Model-View-Presenter (MVP) with support for Singleton, Activity, Fragment, and child Fragment scopes.
 
+* [Android-Templates-And-Utilities](https://github.com/petrnohejl/Android-Templates-And-Utilities) - Collection of source codes, utilities, templates and snippets for Android development.
 
 
 
@@ -201,6 +205,9 @@
 
 * [Twobbble](https://github.com/550609334/Twobbble)
 * [Using Kotlin in Your Android Production Code](https://proandroiddev.com/using-kotlin-in-your-android-production-code-d73d7e8f84ac)
+
+* [android-clean-architecture-boilerplate](https://github.com/bufferapp/android-clean-architecture-boilerplate) - An android boilerplate project using clean architecture
+
 
 
 
@@ -259,6 +266,8 @@
 
 * [Robust Hotfix](https://github.com/Meituan-Dianping/Robust)  
 
+* [tinker](https://github.com/Tencent/tinker) - Tinker is a hot-fix solution library for Android, it supports dex, library and resources update without reinstall apk.
+
 * [A View for cropping images](https://github.com/yasharpm/InstaCropper)  
 
 * [Scrollable list of items](https://github.com/yarolegovich/DiscreteScrollView)  
@@ -288,6 +297,10 @@
 * [ShimmerLayout](https://github.com/team-supercharge/ShimmerLayout)
 
 * [25 Android libraries you definitely want to try out in early 2017](https://medium.freecodecamp.org/25-new-android-libraries-which-you-definitely-want-to-try-at-the-beginning-of-2017-45878d5408c0) - This is a list of 25 best Android libraries released in January and February 2017
+
+* [Scraping Web Pages with Retrofit – jspoon Library](https://www.thedroidsonroids.com/blog/scraping-web-pages-with-retrofit-jspoon-library)
+
+* [whatisnewdialog](https://github.com/nonzeroapps/whatisnewdialog) - An Android library for displaying a dialog where it presents new features in the app.
 
 
 
