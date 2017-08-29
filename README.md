@@ -138,6 +138,8 @@
 
 * [How to speed up your slow Gradle builds](https://android.jlelse.eu/how-to-speed-up-your-slow-gradle-builds-5d9a9545f91a)
 
+* [Android Studio Plugins](https://github.com/balsikandar/Android-Studio-Plugins) - How to become more productive in android with android studio plugins
+
 
  ### Examples:
  
