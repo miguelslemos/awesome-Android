@@ -200,15 +200,34 @@
 
 * [Android-Templates-And-Utilities](https://github.com/petrnohejl/Android-Templates-And-Utilities) - Collection of source codes, utilities, templates and snippets for Android development.
 
+* [Melophile](https://github.com/vpaliyX/Melophile) - Music App built using RxJava2, Retrofit2, Dagger2 and clean architecture.
+
+* [AndroidTVLauncher](https://github.com/JackyAndroid/AndroidTVLauncher) - This is a leanback style tv launcher
 
 
 
 #### Kotlin
 
 * [Twobbble](https://github.com/550609334/Twobbble)
+
 * [Using Kotlin in Your Android Production Code](https://proandroiddev.com/using-kotlin-in-your-android-production-code-d73d7e8f84ac)
 
-* [android-clean-architecture-boilerplate](https://github.com/bufferapp/android-clean-architecture-boilerplate) - An android boilerplate project using clean architecture
+* [android-clean-architecture-boilerplate](https://github.com/bufferapp/android-clean-architecture-boilerplate) - An android boilerplate project using clean architecture.
+
+* [Susi](https://github.com/fossasia/susi_android) - The main feature of the app is to provide a conversational interface to provide intelligent answers using the loklak/AskSusi infrastructure. The app also offers login functionalities to connect to other services and stored personal data. Additionally the application uses data provided by the user's phone to improve Susi answers. Geolocation information for example helps to offer better answers related to questions about "things nearby".
+
+* [Eyepetizer](https://github.com/kaikaixue/Eyepetizer) - Open video is a boutique short video daily newspaper application, the project is to use kotlin, with some of the known eye-catching interface to write a imitation "eye-catching App", mainly to learn kotlin and some UI effects.
+
+* [Mango](https://github.com/TonnyL/Mango) -  An Android app for dribbble.com
+
+* [Android-topeka](https://github.com/googlesamples/android-topeka) - A fun to play quiz that showcases material design on Android.
+
+* [Red-moon](https://github.com/raatmarien/red-moon) - An android screen filter app for night time phone use.
+
+* [Twidere-Android](https://github.com/TwidereProject/Twidere-Android) - Material Design ready and feature rich Twitter app for Android 4.0+.
+
+* [Tivi](https://github.com/chrisbanes/tivi) - Tivi is a work-in-progress TV show tracking Android app, which connects to Trakt.tv. It is still in its early stages of development and currently only contains two pieces of UI. It is under heavy development.
+
 
 
 
@@ -303,6 +322,12 @@
 * [Scraping Web Pages with Retrofit – jspoon Library](https://www.thedroidsonroids.com/blog/scraping-web-pages-with-retrofit-jspoon-library)
 
 * [whatisnewdialog](https://github.com/nonzeroapps/whatisnewdialog) - An Android library for displaying a dialog where it presents new features in the app.
+
+* [Luban](https://github.com/Curzibn/Luban) - Image compression with efficiency very close to WeChat
+
+* [RxTools](https://github.com/vondear/RxTools)
+
+* [Android Material App Rating](https://github.com/stepstone-tech/android-material-app-rating) - This library allows to use customized Rating Dialog inside applications.(KOTLIN)
 
 
 
