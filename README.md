@@ -52,7 +52,6 @@
  * [Essential Guide For Designing Your Android App Architecture: MVP: Part 2](https://blog.mindorks.com/essential-guide-for-designing-your-android-app-architecture-mvp-part-2-b2ac6f3f9637#.6pqdnablc)
  
   * [Android MVP Architecture Extension with Interactors and Repositories](https://blog.mindorks.com/android-mvp-architecture-extension-with-interactors-and-repositories-bd4b51972339)
-
  
  * [Mosby](https://github.com/sockeqwe/mosby) - A Model-View-Presenter library for modern Android apps.
  
@@ -120,9 +119,9 @@
 
 * [MaterialMasterDetail](https://github.com/lurbas/MaterialMasterDetail) - Android Application sample of how to implement Master/Detail pattern that follows Material Design visual language
 
-* [Creating well-behaved views in Android] (https://blog.picnic.nl/creating-well-behaved-views-in-android-3e088c560bc5)
+* [Creating well-behaved views in Android](https://blog.picnic.nl/creating-well-behaved-views-in-android-3e088c560bc5)
 
-* [Android CardView 101: Everything you should know] (https://www.whatsthatlambda.com/android/android-cardview-101-everything-you-should-know)
+* [Android CardView 101: Everything you should know](https://www.whatsthatlambda.com/android/android-cardview-101-everything-you-should-know)
 
  ### Productivity:
  
@@ -204,6 +203,10 @@
 
 * [AndroidTVLauncher](https://github.com/JackyAndroid/AndroidTVLauncher) - This is a leanback style tv launcher
 
+* [AsyncListUtil-Example](https://github.com/jasonwyatt/AsyncListUtil-Example) - Example implementation of AsyncListUtil for moving SQLite access off the UI thread with a RecyclerView.
+
+* [Making ActionBar beautiful by showing Count on ActionBar Icon](https://blog.mindorks.com/making-actionbar-beautiful-by-showing-count-on-actionbar-icon-ed3a3a1a74ea)
+
 
 
 #### Kotlin
@@ -271,6 +274,8 @@
 * [30+ Kickass Tools to Develop Android Apps Like a Pro](https://blog.aritraroy.in/30-kickass-tools-to-develop-android-apps-like-a-pro-191e52b9419b)
 
 * [Postman for Android developers](https://wetalkit.xyz/postman-for-android-developers-ca6451d0baa9)
+
+* [How To Become A Complete Android Developer](https://blog.mindorks.com/how-to-become-a-complete-android-developer-110d7ef91f2a) - A complete guide to become a complete Android Developer
 
 
 
@@ -381,5 +386,4 @@
 
 
 
-
-
+https://blog.mindorks.com/ultimate-android-app-project-structure-a-d-s-003-4e8ce8499469
