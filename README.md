@@ -35,7 +35,8 @@
  * [S.O.L.I.D no Android](https://medium.com/@iagofucolo/s-o-l-i-d-no-android-d55e23f1c72d#.tijclmfan)
  
  * [Android Architecture](https://medium.com/curofy-engineering/android-curofy-7a3e3e0eb351)
-
+ 
+ * [Ultimate Android App Project Structure](https://blog.mindorks.com/ultimate-android-app-project-structure-a-d-s-003-4e8ce8499469)
  
 ##### MVP:
 
@@ -334,6 +335,7 @@
 
 * [Android Material App Rating](https://github.com/stepstone-tech/android-material-app-rating) - This library allows to use customized Rating Dialog inside applications.(KOTLIN)
 
+* [Libraries](https://github.com/fython/MaterialStepperView) - 30 new Android Libraries and Projects released in Summer 2017 which should catch your attention
 
 
 
@@ -386,4 +388,4 @@
 
 
 
-https://blog.mindorks.com/ultimate-android-app-project-structure-a-d-s-003-4e8ce8499469
+
