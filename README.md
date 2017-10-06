@@ -101,6 +101,8 @@
  * [Android App Performance Optimization](https://blog.mindorks.com/android-app-performance-optimization-cdccb422e38e)
  
  * [AndResGuard](https://github.com/shwenzhang/AndResGuard) - proguard resource for Android by wechat team
+ 
+ * [Optimize network usage.Check out local storage and RxJava backpressure](https://medium.freecodecamp.org/want-to-optimize-network-usage-check-out-local-storage-and-rxjava-backpressure-8b91b1db298a)
 
 
 
@@ -232,6 +234,9 @@
 
 * [Tivi](https://github.com/chrisbanes/tivi) - Tivi is a work-in-progress TV show tracking Android app, which connects to Trakt.tv. It is still in its early stages of development and currently only contains two pieces of UI. It is under heavy development.
 
+* [Kotlin-MVP-Testing](https://android.jlelse.eu/complete-example-of-testing-mvp-architecture-with-kotlin-and-rxjava-part-2-ca150c688ab1) - Complete example of testing MVP architecture with Kotlin and RxJava
+
+* [Weather app](https://github.com/elpassion/crweather) - Android demo app with kotlin coroutines and architecture components library
 
 
 
@@ -277,6 +282,8 @@
 * [Postman for Android developers](https://wetalkit.xyz/postman-for-android-developers-ca6451d0baa9)
 
 * [How To Become A Complete Android Developer](https://blog.mindorks.com/how-to-become-a-complete-android-developer-110d7ef91f2a) - A complete guide to become a complete Android Developer
+
+* [7 reasons this Android Code Style improves your productivity](https://medium.com/@passsy/7-reasons-this-android-code-style-improves-your-productivity-65d196fa55f)
 
 
 
