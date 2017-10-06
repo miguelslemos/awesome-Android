@@ -371,6 +371,7 @@
 ### Android Studio Plugins
 
 * [GsonFormat](https://github.com/zzz40500/GsonFormat)
+* [JsonToKotlinClass](https://github.com/wuseal/JsonToKotlinClass) - A plugin for Kotlin generate Kotlin data class code from a json string ( Json to Kotlin )
 
 ### ORM
 
