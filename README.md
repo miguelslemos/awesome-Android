@@ -38,6 +38,8 @@
  
  * [Ultimate Android App Project Structure](https://blog.mindorks.com/ultimate-android-app-project-structure-a-d-s-003-4e8ce8499469)
  
+ *[Modularization. Application structure overview](https://medium.com/@mydogtom/modularization-part-1-application-structure-overview-9e465909a9bc) - The goal of this article series is to explore how multi-module application can be organized. Especially, how to organize Dagger components.
+ 
 ##### MVP:
 
  * [Model-View-Presenter: Android guidelines](https://medium.com/@cervonefrancesco/model-view-presenter-android-guidelines-94970b430ddf#.jtcu9onzh)
