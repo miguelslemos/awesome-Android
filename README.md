@@ -107,6 +107,8 @@
  * [Optimize network usage.Check out local storage and RxJava backpressure](https://medium.freecodecamp.org/want-to-optimize-network-usage-check-out-local-storage-and-rxjava-backpressure-8b91b1db298a)
  
  * [redex](https://github.com/facebook/redex) - A bytecode optimizer for Android apps
+ 
+ * [Auto Caching with Retrofit](https://medium.com/@arthur_sav/auto-caching-with-retrofit-9384c00d52be)
 
 
 
