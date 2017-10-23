@@ -247,6 +247,8 @@
 
 * [Weather app](https://github.com/elpassion/crweather) - Android demo app with kotlin coroutines and architecture components library
 
+* [CatchUp](https://github.com/hzsweers/CatchUp) 
+
 
 
 
@@ -376,6 +378,7 @@
 
 * [Android Sec Links](https://github.com/ashishb/android-security-awesome)
 * [Checklist Android Sec](https://github.com/b-mueller/android_app_security_checklist/blob/master/README.md)
+* [Secure data in Android](https://medium.com/@yakivmospan/secure-data-in-android-encryption-7eda33e68f58)
 
 ### Android Studio Plugins
 
