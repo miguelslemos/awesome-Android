@@ -109,7 +109,8 @@
  * [redex](https://github.com/facebook/redex) - A bytecode optimizer for Android apps
  
  * [Auto Caching with Retrofit](https://medium.com/@arthur_sav/auto-caching-with-retrofit-9384c00d52be)
-
+ 
+ * [Modular Architecture for faster Build Time](https://proandroiddev.com/modular-architecture-for-faster-build-time-d58397cb7bfe)
 
 
 
@@ -215,6 +216,8 @@
 * [AsyncListUtil-Example](https://github.com/jasonwyatt/AsyncListUtil-Example) - Example implementation of AsyncListUtil for moving SQLite access off the UI thread with a RecyclerView.
 
 * [Making ActionBar beautiful by showing Count on ActionBar Icon](https://blog.mindorks.com/making-actionbar-beautiful-by-showing-count-on-actionbar-icon-ed3a3a1a74ea)
+
+* [OfflineSampleApp](https://proandroiddev.com/offline-apps-its-easier-than-you-think-9ff97701a73f) - Building Offline-First App using MVVM, RxJava, Room and Priority Job Queue
 
 
 
