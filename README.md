@@ -71,6 +71,10 @@
   * [Android Dagger2: Critical things to know before you implement](https://blog.mindorks.com/android-dagger2-critical-things-to-know-before-you-implement-275663aecc3e#.hwd7hfri3)
 
  * [Building UserScope with Dagger2](https://medium.com/azimolabs/building-userscope-with-dagger2-5092346d8812#.eedtqiz9j)
+ 
+ * [That Missing Guide: How to use Dagger](https://medium.com/@Zhuinden/that-missing-guide-how-to-use-dagger2-ef116fbea97)
+ 
+ 
 
 ### Activity Manager:
 
@@ -112,6 +116,7 @@
  
  * [Modular Architecture for faster Build Time](https://proandroiddev.com/modular-architecture-for-faster-build-time-d58397cb7bfe)
 
+* [Practical Data Structures Guide for Android developers](https://blog.mindorks.com/practical-data-structures-guide-for-android-developers-73fdec190802)
 
 
  ### Continuous Integration:
@@ -248,6 +253,8 @@
 * [Weather app](https://github.com/elpassion/crweather) - Android demo app with kotlin coroutines and architecture components library
 
 * [CatchUp](https://github.com/hzsweers/CatchUp) 
+
+* [RxKotlin: Login Screen](https://android.jlelse.eu/rxkotlin-login-screen-7413ba6b5e4f)
 
 
 
